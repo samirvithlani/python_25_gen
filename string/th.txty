@@ -15,3 +15,8 @@ isdigit
 isPrintabele
 isupper
 islower
+index
+rindex
+find
+rfind
+replace
