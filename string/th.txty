@@ -20,3 +20,9 @@ rindex
 find
 rfind
 replace
+lstrip
+rstrip
+strip
+count
+removePrefix
+removeSuffix
