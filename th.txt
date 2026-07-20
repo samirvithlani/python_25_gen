@@ -155,5 +155,25 @@ string is immutable:
 
 no of space -->
 
+array:
+
+list
+tuple
+dict
+set
+
+
+list:
+
+list is dyanmic 
+list is iterable
+list is supscripable
+list allows duplicate element:
+list is hetrogenious: ["s",True,None,"",12]
+list is ordered
+list is mutable
+data type of list is list
+will use [] braces to declare list.
+
 
 

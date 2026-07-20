@@ -26,3 +26,9 @@ strip
 count
 removePrefix
 removeSuffix
+split
+rsplit
+partiation
+rpartiation
+splitlines
+join
