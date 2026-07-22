@@ -175,5 +175,23 @@ list is mutable
 data type of list is list
 will use [] braces to declare list.
 
+task1:
+
+list
+data = ["raj","hr","bob","amit","kunal","ahmedabad","d","ok"]
+
+name len >=4
+
+data =[11,21,34,56,65,54,43,78,0,90,87,65.67,90,111,345,4,32]
+
+
+data = ["jay","ajay","raj","jay","parth","amit","parth","kunal"]
+
+["jay","ajay","raj"]
+
+
+data = ["naman","jay","racecar","a","bob","jay","madam"]
+
+#name palidnrome ---> new list
 
 
