@@ -210,3 +210,17 @@ tuple is immutable
 same as list...
 data type of tuple is tuple
 we can use () to declare empty list
+
+-----------------------------------
+dict:
+dict is dyanmic 
+dict is iterable
+dict is supscripable
+dict allows duplicate values but not key:
+dict is hetrogenious: ["s",True,None,"",12]
+dict is unordered
+dict is mutable
+data type of dict is dict
+will use {} braces to declare dict
+
+
