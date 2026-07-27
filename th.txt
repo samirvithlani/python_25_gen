@@ -198,3 +198,15 @@ sales = [[12,30],[23,67],[30,90]]
 
 [12,30,23,67,30,90]
 
+
+[1,[2]]
+pop - [2] -->data type checl -->list -->extend 2
+
+tuple:
+tuple is dyanmic
+tuple is iterable
+tuple is supscripable
+tuple is immutable
+same as list...
+data type of tuple is tuple
+we can use () to declare empty list
