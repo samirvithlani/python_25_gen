@@ -224,3 +224,16 @@ data type of dict is dict
 will use {} braces to declare dict
 
 
+set:
+set is dynamic
+set is iterable
+set is unordered
+set does not store data in index
+set is not supscripable
+set is hetrogenious
+set does not allows duplicate elements
+set is mutable
+data type of set is set
+will use {} braces for declare set
+
+
