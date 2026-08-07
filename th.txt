@@ -237,3 +237,6 @@ data type of set is set
 will use {} braces for declare set
 
 
+FUNC:
+def funcname():
+    block..
