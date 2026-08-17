@@ -3,25 +3,26 @@ def add(*args):
     sum=0
     for i in args:
         sum+=i
-    print(sum)
+    return sum
 
 
 def mul(*args):
-    sum=0
+    sum=1
     for i in args:
         sum*=i
-    print(sum)        
+    return sum
 
 
 def sub(*args):
     sum=0
     for i in args:
         sum-=i
-    print(sum)    
+    return sum    
 
 
 def calc(func,*args):
-    func(*args) #add(*args)
+    ans = func(*args) #add(*args)
+    print("ans",ans)
 
 op = "+"
 #match cas if else
