@@ -8,7 +8,7 @@ def wallet(amount):
     print(f"transaction done for amount {amount} with WALLET")    
 
 
-def payment(func):
+def payment(func): #func == upi()
     print("payment called...")    
     print(func)
     func(1000)
