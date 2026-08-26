@@ -41,3 +41,14 @@ for i in d:
     print(list(i))
     
   
+
+
+def getData(s,e,size):
+    k=s
+    while k<e:
+        yield [i for i in range(k,k+10)] 
+        k=k+10   
+        
+l=getData(1,100,10)
+for i in range(1,11):
+    print(next(l))  
