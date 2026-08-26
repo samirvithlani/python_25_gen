@@ -18,5 +18,26 @@ d = demo()
 for i in d:
     print(i)
 
-def getData(1,100,10):
-    pass    
+#1,100,10
+def getData(start,end,batch_size):
+    #1<=100
+    while start<=end:
+        #91+10-1 = 100
+        #101
+        batch_end = start+batch_size-1
+        #100>100
+        if(batch_end>end):
+            batch_end = end
+
+        yield range(start,batch_end+1)
+        start = batch_end +1 #91,101
+
+# d = getData(1,100,10)
+# print(list(next(d)))
+# print(list(next(d)))
+
+d = getData(1,100,10)
+for i in d:
+    print(list(i))
+    
+  
