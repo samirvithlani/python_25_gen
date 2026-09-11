@@ -35,3 +35,5 @@ print(data)
 data.remove("mon")
 print(data)
 
+data.discard("mon")
+print(data)
