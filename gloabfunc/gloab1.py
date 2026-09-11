@@ -58,3 +58,14 @@ data = ["raj","parth","ok"]
 
 charsum = sum(len(i) for i in data)
 print(charsum)
+
+#dict:
+students = [
+    {"id":1,"name":"raj","marks":23},
+    {"id":2,"name":"jay","marks":25},
+    {"id":3,"name":"parth","marks":20}
+]
+
+#res = sum(i["name"] for i in students)
+res = sum(i["id"] for i in students)
+print("marks",res)
