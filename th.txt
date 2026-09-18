@@ -289,3 +289,19 @@ data  = {"id":1,"name":"raj","age":23}
 id =1
 name=raj
 age=23
+
+
+read first 10 lines from any file
+ ---> 10 -> no of words count..
+
+1 line read --> word count..
+
+
+file 1st line all palindrome words
+
+hi i am naman
+["i","naman"]
+
+hi naman i am bob
+[naman,i,bob]
+
