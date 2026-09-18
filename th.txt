@@ -284,10 +284,8 @@ java
 ../../ java/p/
 
 
+data  = {"id":1,"name":"raj","age":23}
 
-
-
-
-
-
-
+id =1
+name=raj
+age=23
