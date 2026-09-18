@@ -242,3 +242,52 @@ def funcname():
     block..
 
 
+files:
+use:
+to achive data peristancy we can use file or db:
+data peristancy is process to store data permenently
+
+file:
+open
+read/write
+close
+
+mode:
+r
+w
+r+
+w+
+a
+a+
+b
+x
+
+--------------------------->
+path:
+location:
+
+2 type path:
+absolute path: D:\royal\python_2026_even\th.txt
+realtive path: th.txt
+
+
+D:\royal\python_2026_even\functions\decorartorDemo2.py
+functions\decorartorDemo2.py
+
+
+
+folder:
+java
+
+./ : current dir
+../ : java p-->parent
+../../ java/p/
+
+
+
+
+
+
+
+
+
