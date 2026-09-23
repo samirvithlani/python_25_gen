@@ -305,3 +305,10 @@ hi i am naman
 hi naman i am bob
 [naman,i,bob]
 
+
+
+
+demo -->
+entter sub folder:
+ 
+ demo /abc/xyz/pqr
