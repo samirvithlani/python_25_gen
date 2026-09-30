@@ -16,3 +16,41 @@ sort
 
 while True
     match case
+
+
+Marks Analyzer: Take 5 students' marks in a list.
+Print highest,
+lowest,
+average, 
+and how many passed (marks >= 35)
+
+Word Counter: Take a sentence and count how many times each word appears.
+dict:
+
+hi this is india and india is county
+{hi:1,this:1,is:2,india:2..}
+
+---------------------------------------
+Mini Shop Bill:
+A dict of item → price. 
+Take the user's chosen items and print the total bill.
+
+{"iphone18":200000,"laptop":90000,"table":12000,"bottle":500,"tshirt":600}
+
+please enter prod name
+if prod is exist: please enter qty:
+bill
+
+
+A dict of {name: [marks]}. 
+Print each student's name with their average,
+and find the topper.
+
+
+students = {"bhavik":[20,30,40],"raj":[22,33,55],"jay":[22,34,67],"kunal":[18,19,22]}
+
+data = ["raj","jay","parth","kunal"]
+
+p1:["kunal","parth","jay","raj"]
+p2:["lanuk","htrap","yaj","jar"]
+
