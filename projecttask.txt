@@ -1,0 +1,18 @@
+Playlist Manager: 
+Start with a list of 5 songs. 
+Add a song, 
+remove a song, 
+and print the 
+playlist sorted A-Z.
+
+
+global list playlist
+
+adsong
+removesong
+print songs
+sort
+
+
+while True
+    match case
