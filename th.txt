@@ -312,3 +312,12 @@ demo -->
 entter sub folder:
  
  demo /abc/xyz/pqr
+
+------------------------
+create rock paper scissors
+
+user = please enter yuour choice: rock
+computer =rock
+tie:
+
+
