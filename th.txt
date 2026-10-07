@@ -321,3 +321,78 @@ computer =rock
 tie:
 
 
+guess correct number:
+
+100 --> 1000 --> too high
+
+
+
+2 player game:
+
+player 1 chance : 90
+player 2 chance : 90
+
+
+player 1 or 2 win
+
+
+log all entery of player 1 and player 2 guessed numbers
+list
+
+
+
+zombie surivial game:
+
+health:100
+food:5
+ammo:5
+Money:100
+
+
+What do you want to do?
+
+1. 🏠 Search a building
+2. 🧟 Fight zombies
+3. 🍗 Eat food
+4. 🛒 Visit shop
+5. 💤 Sleep
+6. 🚪 Quit
+
+DAY :1
+
+when player search building:
+
+random things:
+food:2,ammo:10,Money:2
+
+another zombie found you
+random health reduce:
+
+
+2)fight zombie:
+
+display zombie health:
+oppent zombie heath:
+
+shoot or run:
+
+
+3)eat food:
+food -1
+health +20
+
+4)shop:
+
+food:
+ammo:
+medicin:
+
+5)sleep:
+
+day 2 satrt
+
+
+
+
+
+
