@@ -393,6 +393,21 @@ day 2 satrt
 
 
 
+🎮 12 exciting Python game projects
+
+1. 🏝️ Island Survival Challenge
+Beginner → Intermediate
+Story: Your plane crashes on a mysterious island. Survive for 10 days until rescue arrives.
+Starting stats: Health 100, food 3, water 3, wood 0.
+Tasks
+- Search the island for food and water.
+- Collect wood to build a shelter.
+- Hunt animals for food.
+- Random storms can damage your shelter.
+- Every day consumes food and water.
+Boss challenge: Survive a massive storm on Day 10.
+
+
 
 
 
