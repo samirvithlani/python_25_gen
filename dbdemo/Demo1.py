@@ -24,12 +24,13 @@ con.commit()
 # cur.execute("insert into student(name,age,marks)values(?,?,?)",("jay",21,66.5))
 #con.commit()
 
-#cur.execute("select * from student")
-cur.execute("select * from student where name = ?",("ram",))
+cur.execute("select * from student")
+#cur.execute("select * from student where name = ?",("ram",))
 students = cur.fetchall()
 #students = cur.fetchone()
 #students = cur.fetchmany(1)
 print(students)
+print(min(students,key=lambda x:x[3]))
 con.commit()
 
 #update record:
@@ -37,8 +38,8 @@ con.commit()
 # con.commit()
 
 
-cur.execute("DELETE from student where name =?",("ram",))
-con.commit()
+#cur.execute("DELETE from student where name =?",("ram",))
+#con.commit()
 con.close()
 
 
