@@ -410,4 +410,18 @@ Boss challenge: Survive a massive storm on Day 10.
 
 
 
+recursion:
 
+print 1 to 10 using recursion function
+
+print sum of digit using recursion
+
+
+web scrapping:
+scrapp website data..
+
+beautifulsoup 4
+playwright
+
+python -m pip install playwright
+python -m playwright install chromium
