@@ -7,6 +7,7 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto(url)
     
+    
     products = page.locator(".product-base")
     
     for i in range(products.count()):
@@ -24,7 +25,19 @@ with sync_playwright() as p:
         #     print(price," -",discounted_price.inner_text())
         # else:
         #     print("N/A")            
+        
+    
+        
+    next_button = page.locator(".pagination-next")
+    if next_button.count()>0 and next_button.is_enabled():
+        next_button.click()
+        #page.wait_for_load_state("domcontentloaded")
+        page.wait_for_timeout(4000)
+        
             
+    else:
+        print("next button is not available")
+        
         
         
         
